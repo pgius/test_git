@@ -16,4 +16,6 @@ end entity;
 
 architecture behav of spi_receiver is
 
+	first_process: process(clk) is
+
 end architecture behav;
